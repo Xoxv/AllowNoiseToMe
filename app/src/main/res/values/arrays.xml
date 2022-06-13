@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="array_voice">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%(표준)</item>
+        <item>150%</item>
+        <item>200%</item>
+    </string-array>
+</resources>
